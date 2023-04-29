@@ -126,6 +126,7 @@ public class Matriz {
 
     /**
      * Funcion que elimina mediante "fila y columna
+
      * @param fila    Es la posicion i o fila de la LinkedList
      * @param columna Es la posicion j o columna de la LinkedList
      */
